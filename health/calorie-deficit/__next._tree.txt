@@ -1,0 +1,2 @@
+:HL["/_next/static/css/5c69f286a002c212.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"health","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"calorie-deficit","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"_v4I_MD7yF0dmMGaeZU5p"}
