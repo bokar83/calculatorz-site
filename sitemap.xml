@@ -103,6 +103,12 @@
 <priority>0.8</priority>
 </url>
 <url>
+<loc>https://calculatorz.tools/finance/401k-calculator</loc>
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
 <loc>https://calculatorz.tools/finance/debt-to-income</loc>
 <lastmod>2026-04-15T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
@@ -296,6 +302,12 @@
 </url>
 <url>
 <loc>https://calculatorz.tools/health/sleep-calculator</loc>
+<lastmod>2026-04-15T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://calculatorz.tools/health/macronutrient</loc>
 <lastmod>2026-04-15T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
